@@ -1,3 +1,24 @@
 [submodule "1-github"]
 	path = 1-github
 	url = https://github.com/lincot/0_git_basics
+[submodule "2-file-manager"]
+	path = 2-file-manager
+	url = https://github.com/lincot/file-manager-py
+[submodule "3-echo-server"]
+	path = 3-echo-server
+	url = https://github.com/lincot/1_echo_server
+[submodule "4-multithreaded-server"]
+	path = 4-multithreaded-server
+	url = https://github.com/lincot/2_threaded_server
+[submodule "5-ciphers"]
+	path = 5-ciphers
+	url = https://github.com/lincot/8_Assymmetric_ciphers
+[submodule "6-web"]
+	path = 6-web
+	url = https://github.com/lincot/6_Web_server
+[submodule "7-ftp"]
+	path = 7-ftp
+	url = https://github.com/lincot/5_FTP_server
+[submodule "8-microservice"]
+	path = 8-microservice
+	url = https://github.com/lincot/9_flask_app

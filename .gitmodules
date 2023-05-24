@@ -1,0 +1,3 @@
+[submodule "1-github"]
+	path = 1-github
+	url = https://github.com/lincot/0_git_basics
